@@ -1,4 +1,4 @@
-package CollegePraticalProgram;
+package Pratical;
 
 class student {
     int rollno;

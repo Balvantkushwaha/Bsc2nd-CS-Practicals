@@ -1,6 +1,6 @@
 
-import CollegePraticalProgram.messagePackage;
-import CollegePraticalProgram.pnp;
+import Pratical.messagePackage;
+import Pratical.pnp;
 
 class packagetext {
       public static void main(String args[]) {

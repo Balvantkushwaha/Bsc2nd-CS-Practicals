@@ -1,4 +1,4 @@
-package CollegePraticalProgram;
+package Pratical;
 
 // problem : write a program to print 1 t 07 weekday and
 // print table, find factorial, find area of retangle uses by swith case statement in java .

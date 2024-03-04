@@ -1,4 +1,4 @@
-package CollegePraticalProgram;
+package Pratical;
 
 import java.util.Scanner;
 

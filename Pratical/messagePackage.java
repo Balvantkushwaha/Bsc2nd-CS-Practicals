@@ -1,4 +1,4 @@
-package CollegePraticalProgram;
+package Pratical;
 
 public class messagePackage {
     public static void mypackage() {
