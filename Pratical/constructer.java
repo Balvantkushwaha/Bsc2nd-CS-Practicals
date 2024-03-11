@@ -4,9 +4,15 @@ class student {
     int rollno;
     String name;
 
-    public student() {
-        rollno = 10225077;
-        name = "balvant ";
+    student() {
+        System.out.println("welcome to default constructer"); // detault constroucter
+    }
+
+    public student(int rollno, String name) {
+        // rollno = 10225077;
+        // name = "balvant ";
+        this.rollno = rollno;
+        this.name = name;
     }
 
     void display() {
@@ -18,6 +24,7 @@ class student {
 public class constructer {
     public static void main(String[] args) {
         student obj = new student();
-        obj.display();
+        student st = new student(0, null);
+        st.display();
     }
 }

@@ -59,8 +59,9 @@ class sw {
 
                 int f = obj.nextInt();
                 int fact = 1;
-                for (int j = 1; j <= f; j++)
+                for (int j = 1; j <= f; j++) {
                     fact = fact * j;
+                }
                 System.out.println("factorial  : " + fact);
 
                 break;

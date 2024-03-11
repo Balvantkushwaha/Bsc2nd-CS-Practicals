@@ -3,7 +3,7 @@ package Pratical;
 import java.util.Scanner;
 
 public class pnp {
-    public static void primeAndNotPrime() {
+    public static void main(String args[]) {
         System.out.println("enter the any number");
         Scanner obj = new Scanner(System.in);
         int num = obj.nextInt();
