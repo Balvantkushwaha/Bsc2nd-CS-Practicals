@@ -24,4 +24,5 @@ public class pnp {
             System.out.println(num + " is non prime number");
         }
     }
+
 }
